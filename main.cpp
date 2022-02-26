@@ -18,7 +18,7 @@ int main()
                     Sleep(3000); }
     if (i==30) {
         cout << "\n\n\t\t\tTO                    ";
-        cout << "\n\n\n\t\tNgay tu khi gap cau to da bi cam nang cau mat roi. \n\t\tTo da lo nhu chung ta da tung gap nhau vay!";
+        cout << "\n\n\n\t\tNgay tu khi gap cau to da bi cam nang cau mat roii. \n\t\tTo da lo nhu chung ta da tung gap nhau vay!";
         Sleep(4000);
     }
     if (i==40) {
